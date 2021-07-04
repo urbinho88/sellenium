@@ -31,7 +31,7 @@ class WizzairRegistration(unittest.TestCase):
         driver = self.driver
         zaloguj_btn = driver.find_element_by_xpath('//button[@data-test="navigation-menu-signin"]')
         zaloguj_btn.click()
-        6
+
         #klikanie rejestracji
         rejestracja_bn = driver.find_element_by_xpath('//button[@data-test="registration"]')
         rejestracja_bn.click()
