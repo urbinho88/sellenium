@@ -13,7 +13,7 @@ class NotinoRegistration(unittest.TestCase):
         # Tutaj właczymy przeglądarkę
         self.driver = webdriver.Chrome()
         self.driver.implicitly_wait(60)
-        #
+
         self.driver.maximize_window()
         self.driver.get('https://juvepoland.com')
 
