@@ -1,4 +1,4 @@
-# Sellenium
+# Selenium
 
 * [General info](#general-info)
 * [Technologies](#technologies)
