@@ -3,8 +3,7 @@ import unittest
 from selenium import webdriver
 import time
 
-from selenium.webdriver import ActionChains
-from selenium.webdriver.common.keys import Keys
+
 
 
 class NotinoRegistration(unittest.TestCase):
