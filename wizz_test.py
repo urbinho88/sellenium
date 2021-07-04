@@ -21,7 +21,7 @@ class WizzairRegistration(unittest.TestCase):
 
     def tearDown(self):
         print("Sprzątanie po teście")
-        #
+
         self.driver.quit()
 
 
