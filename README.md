@@ -1,6 +1,6 @@
 # Selenium
 
-![]("https://www.dlatesterow.pl/wp-content/uploads/2017/07/selenium.jpg")
+![](https://ibb.co/pKm2G0Q)
 
 * [General info](#general-info)
 * [Technologies](#technologies)
