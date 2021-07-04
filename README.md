@@ -1,6 +1,6 @@
 # Selenium
 
-![](<a href="https://imgbb.com/"><img src="https://i.ibb.co/C9rBN16/selenium-webdriver.png" alt="selenium-webdriver" border="0"></a>)
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/C9rBN16/selenium-webdriver.png" alt="selenium-webdriver" border="0"></a>
 
 * [General info](#general-info)
 * [Technologies](#technologies)
